@@ -37,7 +37,7 @@ Teknik detaylar;
 | Genişlik | 53.4 mm    |
 | Ağırlık | 25 gr    |
 
-![alt text](https://github.com/yasinsahin0/Arduino/images/arduino-uno.png)
+![Arduino uno](https://github.com/yasinsahin0/Arduino/blob/main/images/arduino-uno.png)
 # NEDİR ?
 
 ## SRAM nedir ?
