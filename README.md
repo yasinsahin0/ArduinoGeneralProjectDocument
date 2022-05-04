@@ -44,3 +44,6 @@ Teknik detaylar;
 
 ## EEPROM nedir ?
 
+## CH340 nedir ?
+
+## ATmega ailesi nedir ?
